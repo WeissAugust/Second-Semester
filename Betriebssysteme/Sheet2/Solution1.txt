@@ -1,0 +1,15 @@
+Script 1:
+
+	This script changes the mode of a file so you can run it.
+	chmod +x
+	
+Script 2:
+
+	This script checks how many arguments are given.
+		-	< 3: too less
+		-	= 3: proceeding
+		-	> 3: too many
+
+Script 3:
+
+	This script copies the data of one file into the second.

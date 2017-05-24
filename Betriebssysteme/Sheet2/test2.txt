@@ -1,0 +1,1 @@
+This is a file you can use for testing script3.sh
